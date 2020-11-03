@@ -1,7 +1,7 @@
 # Escalade Autour d'Apcher 
 
 ## Secteur Colline
-![](secteur_colline.svg)
+![](pngs/secteur_colline.png)
 
 ## Secteur Sharpness
-![](secteur_sharpness.svg)
+![](pngs/secteur_sharpness.png)
