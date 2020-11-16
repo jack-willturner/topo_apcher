@@ -1,15 +1,14 @@
 # Escalade Autour d'Apcher
 
 ## Secteur Colline
-![](pngs/secteur_colline_00.png)
-![](pngs/secteur_colline_01.png)
-![](pngs/secteur_colline_04.png)
+![](secteur_colline_00.svg)
+![](secteur_colline_01.svg)
+![](secteur_colline_04.svg)
 
 ## Secteur Sharpness
-![](pngs/secteur_sharpness.png)
+![](secteur_sharpness.svg)
 
 ## Secteur Apcher  
-
-![](pngs/secteur_apcher_01.png)
-![](pngs/secteur_apcher_02.png)
-![](pngs/secteur_apcher_03.png)
+![](secteur_apcher_01.svg)
+![](secteur_apcher_02.svg)
+![](secteur_apcher_03.svg)
