@@ -8,7 +8,7 @@
 ## Secteur Sharpness
 ![](secteur_sharpness.svg)
 
-## Secteur Apcher  
+## Secteur Apcher  
 ![](secteur_apcher_01.svg)
 ![](secteur_apcher_02.svg)
 ![](secteur_apcher_03.svg)
