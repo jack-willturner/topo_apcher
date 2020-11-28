@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-in_f=$(realpath $1.svg)
+in_f=$(realpath $1)
 version=$(inkscape -V | cut -d' ' -f2)
 
 if [[ $version == 0.9* ]]; then
