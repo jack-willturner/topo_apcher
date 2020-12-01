@@ -7,34 +7,41 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   sodipodi:docname="secteur_voltige_00.svg"
-   inkscape:version="1.0 (4035a4f, 2020-05-01)"
-   id="svg1614"
-   version="1.1"
-   viewBox="0 0 210 297"
+   width="210mm"
    height="297mm"
-   width="210mm">
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1614"
+   inkscape:version="1.0 (4035a4f, 2020-05-01)"
+   sodipodi:docname="secteur_voltige_00.svg">
   <defs
-     id="defs1608" />
+     id="defs1608">
+    <rect
+       id="rect1646"
+       height="58.87499"
+       width="165.41069"
+       y="214.47318"
+       x="23.12946" />
+  </defs>
   <sodipodi:namedview
-     inkscape:window-maximized="0"
-     inkscape:window-y="23"
-     inkscape:window-x="501"
-     inkscape:window-height="697"
-     inkscape:window-width="1252"
-     showgrid="false"
-     inkscape:document-rotation="0"
-     inkscape:current-layer="layer1"
-     inkscape:document-units="mm"
-     inkscape:cy="540.88957"
-     inkscape:cx="719.92416"
-     inkscape:zoom="0.26035158"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     borderopacity="1.0"
-     bordercolor="#666666"
+     id="base"
      pagecolor="#ffffff"
-     id="base" />
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.50124688"
+     inkscape:cx="569.33518"
+     inkscape:cy="598.8169"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1252"
+     inkscape:window-height="697"
+     inkscape:window-x="81"
+     inkscape:window-y="23"
+     inkscape:window-maximized="0" />
   <metadata
      id="metadata1611">
     <rdf:RDF>
@@ -43,42 +50,253 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     id="layer1"
+     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     inkscape:label="Layer 1">
+     id="layer1">
     <text
-       id="text8376"
-       y="38.53194"
-       x="23.024063"
+       xml:space="preserve"
        style="font-size:16.073px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';stroke-width:0.16073"
-       xml:space="preserve"><tspan
-         style="font-size:16.073px;stroke-width:0.16073"
-         y="38.53194"
-         x="23.024063"
+       x="23.024063"
+       y="38.53194"
+       id="text8376"><tspan
+         sodipodi:role="line"
          id="tspan8374"
-         sodipodi:role="line">Secteur Voltige</tspan></text>
-    <rect
-       y="76.980751"
-       x="15.126043"
-       height="81.550346"
-       width="182.1291"
-       id="rect8858"
-       style="fill:#278151;fill-opacity:1;stroke:#fffffc;stroke-width:0.512529" />
+         x="23.024063"
+         y="38.53194"
+         style="font-size:16.073px;stroke-width:0.16073">Secteur Voltige</tspan></text>
+    <g
+       transform="translate(-0.16438548)"
+       id="g1689">
+      <rect
+         style="fill:#b6bfa6;fill-opacity:1;stroke:none;stroke-width:1.44024;stroke-miterlimit:4;stroke-dasharray:4.32072, 4.32072;stroke-dashoffset:0"
+         id="rect1709"
+         width="149.77422"
+         height="133.20531"
+         x="30.185198"
+         y="59.653172" />
+      <path
+         sodipodi:nodetypes="csc"
+         id="path1644"
+         d="m 30.179294,66.804049 c 39.275283,9.263757 77.893086,2.057168 117.305686,-0.210935 8.17581,-0.470504 26.37245,3.104675 32.57291,1.422518"
+         style="fill:#5c5c5c;fill-opacity:1;stroke:#5c5c5c;stroke-width:5.67751;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         style="opacity:1;fill:none;stroke:#000000;stroke-width:0.135957;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 30.459569,104.60329 c 30.394342,-0.14526 60.338169,-1.48861 90.854611,0 4.37775,0.21354 10.52114,1.88121 14.86098,1.01325 14.62128,-2.92426 28.36579,-5.930543 42.89421,-2.702"
+         id="path1697" />
+      <path
+         style="fill:none;stroke:#5c5c5c;stroke-width:0.959939;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.87981, 2.87981;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 60.196064,73.410917 c -0.594985,9.42275 9.915849,42.665483 6.023294,54.552923 -5.054607,15.43622 -6.907432,53.47489 -2.383172,64.0315"
+         id="path1699"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:#494439;fill-opacity:1;stroke:none;stroke-width:0.218012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 73.933569,130.04679 c -3.286992,-14.25055 17.110076,-0.28558 7.371237,1.1057 -2.902827,0.41468 -4.958817,0.10052 -7.371237,-1.1057 z"
+         id="path1701" />
+      <path
+         style="fill:#494439;fill-opacity:1;stroke:none;stroke-width:0.219571px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 72.223387,157.41861 c -14.988662,18.3456 17.135917,26.89585 14.97839,2.82245 -0.799177,-8.91714 -11.327284,-6.72237 -14.97839,-2.82245 z"
+         id="path1703"
+         sodipodi:nodetypes="csc" />
+      <path
+         style="fill:#494439;fill-opacity:1;stroke:none;stroke-width:0.218012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 88.913572,150.32098 c 1.755114,2.5685 3.455003,-1.31131 6.650884,-0.70626 4.269859,0.80837 9.046864,5.08146 8.782564,-3.16903 -0.061,-1.90462 -2.68261,-4.91366 -4.33618,-5.57509 -6.757494,-2.70302 -15.027566,1.58974 -11.097268,9.45038 z"
+         id="path1705"
+         sodipodi:nodetypes="csssc" />
+      <path
+         style="fill:#494439;fill-opacity:1;stroke:#494439;stroke-width:0.218012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 114.05179,156.56344 c 28.21674,0.36212 25.71185,-2.80634 30.55881,-5.46305 4.82212,-2.6431 2.09043,-9.71779 -0.39537,-13.4465 -8.47261,-12.7089 -44.678125,11.62127 -30.16344,18.90955"
+         id="path1707"
+         sodipodi:nodetypes="cssc" />
+      <text
+         xml:space="preserve"
+         style="font-size:5.23229px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.218354;stroke-miterlimit:4;stroke-dasharray:none"
+         x="76.113686"
+         y="129.17497"
+         id="text1726"><tspan
+           sodipodi:role="line"
+           id="tspan1724"
+           x="76.113686"
+           y="129.17497"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.218354;stroke-miterlimit:4;stroke-dasharray:none">A</tspan></text>
+      <text
+         id="text1726-3"
+         y="165.69891"
+         x="76.417137"
+         style="font-size:5.23229px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+           y="165.69891"
+           x="76.417137"
+           id="tspan1724-6"
+           sodipodi:role="line">C</tspan></text>
+      <text
+         id="text1726-5"
+         y="146.98323"
+         x="94.35302"
+         style="font-size:5.23229px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+           y="146.98323"
+           x="94.35302"
+           id="tspan1724-9"
+           sodipodi:role="line">B</tspan></text>
+      <text
+         id="text1726-54"
+         y="147.34534"
+         x="128.09894"
+         style="font-size:5.23229px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;mix-blend-mode:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+           y="147.34534"
+           x="128.09894"
+           id="tspan1724-91"
+           sodipodi:role="line">D</tspan></text>
+      <rect
+         y="76.215256"
+         x="68.600029"
+         height="8.099678"
+         width="8.2796707"
+         id="rect2125-7"
+         style="fill:#2f337f;fill-opacity:1;stroke:none;stroke-width:0.927252" />
+      <text
+         id="text2129-9"
+         y="82.79847"
+         x="70.716576"
+         style="font-size:7.79621px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';stroke-width:0.167062"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine';fill:#ffffff;fill-opacity:1;stroke-width:0.167062"
+           y="82.79847"
+           x="70.716576"
+           id="tspan2127-4"
+           sodipodi:role="line">P</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.23229px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+         x="90.500252"
+         y="79.71109"
+         id="text2859"
+         transform="rotate(-4.5321244)"><tspan
+           sodipodi:role="line"
+           id="tspan2857"
+           x="90.500252"
+           y="79.71109"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.218012">Route d'Espouzolles</tspan></text>
+      <rect
+         y="89.173042"
+         x="68.543945"
+         height="5.3453727"
+         width="35.515293"
+         id="rect2135-1"
+         style="fill:#748b4b;fill-opacity:1;stroke:none;stroke-width:1.14502;stroke-miterlimit:4;stroke-dasharray:1.14502, 1.14502;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         id="path2141-0"
+         d="m 73.320448,84.685087 -2.067694,4.72641 1.544243,0.0143 z"
+         style="fill:#748b4b;fill-opacity:1;stroke:none;stroke-width:0.218012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text4566"
+         y="92.913597"
+         x="69.88018"
+         style="font-size:4.2017px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';fill:#ffffbe;fill-opacity:1;stroke-width:0.0900365"
+         xml:space="preserve"><tspan
+           style="fill:#ffffbe;fill-opacity:1;stroke-width:0.0900365"
+           y="92.913597"
+           x="69.88018"
+           id="tspan4564"
+           sodipodi:role="line">44.801832, 3.316960</tspan></text>
+      <rect
+         style="fill:#748b4b;fill-opacity:1;stroke:none;stroke-width:1.14502;stroke-miterlimit:4;stroke-dasharray:1.14502, 1.14502;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2135-1-4"
+         width="35.515293"
+         height="5.3453727"
+         x="93.285027"
+         y="161.80475" />
+      <path
+         style="fill:#748b4b;fill-opacity:1;stroke:none;stroke-width:0.218012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         d="m 98.061395,157.31655 -2.067681,4.72641 1.544234,0.0143 z"
+         id="path2141-0-0"
+         sodipodi:nodetypes="cccc" />
+      <text
+         xml:space="preserve"
+         style="font-size:4.2017px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';fill:#ffffbe;fill-opacity:1;stroke-width:0.0900365"
+         x="94.621231"
+         y="165.54532"
+         id="text4566-7"><tspan
+           sodipodi:role="line"
+           id="tspan4564-5"
+           x="94.621231"
+           y="165.54532"
+           style="fill:#ffffbe;fill-opacity:1;stroke-width:0.0900365">44.801487, 3.314473</tspan></text>
+      <path
+         id="path878"
+         d="m 103.48416,184.42809 c 2.0657,2.68284 5.02167,5.49972 8.59331,5.49972 16.50167,0 28.15787,-13.21721 5.84345,-19.59275 -8.90173,-2.54336 -26.510477,6.04389 -14.43676,14.09303 z"
+         style="fill:#494439;fill-opacity:1;stroke:none;stroke-width:0.218012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="csc"
+         id="path882"
+         d="m 157.79389,128.39969 c 29.91573,-1.17733 2.56049,-29.525983 -6.18719,-12.03064 -2.72987,5.45974 2.44968,10.45196 6.18719,12.03064 z"
+         style="fill:#494439;fill-opacity:1;stroke:none;stroke-width:0.218012px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <text
+         id="text886"
+         y="181.35361"
+         x="113.09898"
+         style="font-size:5.23229px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;stroke-width:0.218012"
+         xml:space="preserve"><tspan
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+           y="181.35361"
+           x="113.09898"
+           id="tspan884"
+           sodipodi:role="line">E</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:5.23229px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.218012"
+         x="160.05812"
+         y="120.59956"
+         id="text886-3"><tspan
+           sodipodi:role="line"
+           id="tspan884-6"
+           x="160.05812"
+           y="120.59956"
+           style="fill:#ffffff;fill-opacity:1;stroke-width:0.218012">F</tspan></text>
+    </g>
     <text
-       id="text8862"
-       y="127.2575"
-       x="53.012157"
-       style="font-size:15.0005px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';stroke-width:0.14063"
+       id="text1642"
+       y="213.0714"
+       x="19.624996"
+       style="font-size:6.35px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;stroke-width:0.264583"
        xml:space="preserve"><tspan
-         style="font-size:15.0005px;stroke-width:0.14063"
-         y="127.2575"
-         x="53.012157"
-         id="tspan8860"
-         sodipodi:role="line">map + description</tspan></text>
+         style="stroke-width:0.264583"
+         y="213.0714"
+         x="19.624996"
+         id="tspan1640"
+         sodipodi:role="line" /></text>
+    <text
+       transform="translate(3.9518204,1.0937064)"
+       style="font-size:6.34999999999999964px;line-height:1.25;font-family:'Linux Libertine';-inkscape-font-specification:'Linux Libertine, Normal';letter-spacing:0px;white-space:pre;shape-inside:url(#rect1646);"
+       id="text1644"
+       xml:space="preserve"><tspan
+         x="23.128906"
+         y="220.24579"><tspan>L'un des meilleurs secteurs en Haute Lozère, avec l'un des </tspan></tspan><tspan
+         x="23.128906"
+         y="228.18329"><tspan>approches le plus facile (mais faites attention aux chevaux!). 
+</tspan></tspan><tspan
+         x="23.128906"
+         y="236.12079"><tspan>
+</tspan></tspan><tspan
+         x="23.128906"
+         y="244.05829"><tspan>Si tu veux grimper quelque chose sur le rocher D, il faut </tspan></tspan><tspan
+         x="23.128906"
+         y="251.99579"><tspan>essayer le ligne &quot;Descends-moi si tu peux&quot; avant des autres </tspan></tspan><tspan
+         x="23.128906"
+         y="259.93329"><tspan>lignes, parce que c'est le seul façon de descendre. 
+</tspan></tspan><tspan
+         x="23.128906"
+         y="267.87079"><tspan>
+</tspan></tspan></text>
   </g>
 </svg>
