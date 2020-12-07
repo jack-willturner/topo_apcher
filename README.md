@@ -1,5 +1,7 @@
 # Haute-Lozère Bloc
 
+![](pages/00_cover.svg)
+
 ## Dépendances
 ```
 poppler>=
